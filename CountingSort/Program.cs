@@ -44,19 +44,19 @@ namespace CountingSort
         public static int[] distributionCountingSort(int[] inputArray) //Excecution time for 1 million values = +1 hour
         {
             int maxValue = inputArray.Max();
-            int[] countArray = new int[inputArray.Length];
+            int[] countArray = new int[maxValue + 1];
             int[] outputArray = new int[inputArray.Length];
             for (int i = 0; i < inputArray.Length; i++)
                 countArray[inputArray[i]]++;
 
-            for (int j = 1; j < inputArray.Length; j++)
-                countArray[j] = countArray[j-1] + countArray[j];
+            for (int i = 1; i <= maxValue; i++)
+                countArray[i] += countArray[i - 1];
 
-            for (int i = 0; i < inputArray.Length; i++)
+            for (int i = inputArray.Length - 1; i >= 0; i--)
             {
                 int position = countArray[inputArray[i]];
                 outputArray[position-1] = inputArray[i];
-                countArray[inputArray[i]] = countArray[inputArray[i]] - 1;
+                countArray[inputArray[i]]--;
             }
             return outputArray;
         }

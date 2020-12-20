@@ -24,3 +24,16 @@ C:\Users\drite\Desktop\Master\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\
 C:\Users\drite\Desktop\Master\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.dll
 C:\Users\drite\Desktop\Master\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.pdb
 C:\Users\drite\Desktop\Master\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.genruntimeconfig.cache
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.exe
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.deps.json
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.json
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.dev.json
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csprojAssemblyReference.cache
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfoInputs.cache
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfo.cs
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\drite\Desktop\Master\Projects\CountingSort\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.genruntimeconfig.cache
